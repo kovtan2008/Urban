@@ -25,4 +25,6 @@ if gpa.lower() != "да":
     print('Тогда закройте эту программу!')
     quit()
 if gpa.lower() != "нет":
-    print("Хорошо, средний балл сдудентов:",students_1[0],':',grades[0],students_1[1],':',grades[1],students_1[2],':',grades[2],students_1[3],':',grades[3],students_1[4],':',grades[4])
+    print("Хорошо, средний балл сдудентов:",students_1[0],':',grades[0],students_1[1],':',
+          grades[1],students_1[2],':',grades[2],students_1[3],':',
+          grades[3],students_1[4],':',grades[4])
